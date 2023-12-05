@@ -5,4 +5,4 @@
 - 💻 I'm currently a student at Southern New Hampshire University getting a degree in Computer Science. 
 - 🌱 I’m currently learning Python and Java.
 - 🫡 I'm skilled in Ruby, Javascript, HTML, and CSS.
-- 📫 How to reach me: [mao](https://www.linkedin.com/in/christiemao/)
+- 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/christiemao/)
