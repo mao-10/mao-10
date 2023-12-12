@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Python and Java.
 - 🫡 I'm skilled in Ruby, Javascript, HTML, MYSQL, SQL and CSS.
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/christiemao/)
-- 💻 My Portfolio: https://gregarious-kleicha-73baa2.netlify.app/
+- 💻 My Portfolio](https://gregarious-kleicha-73baa2.netlify.app/)
