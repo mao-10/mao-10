@@ -12,7 +12,7 @@
 [YouTube Video](https://youtu.be/a81oGKTimc8)
 
 ### Narratives:
-- Milestone Two Narrative:
+- Milestone Two Narrative: <a href="MilestoneTwoNarrative.pdf"></a>
 - Milestone Three Narrative:
 - Milestone Four Narrative:
 
