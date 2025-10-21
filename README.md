@@ -19,5 +19,5 @@
 ### Artifacts
 - Software Design and Engineering Enhancement: [Artifact One](https://github.com/mao-10/CS-499-Artifact-One)
 - Algorithms and Data Structure Enhancement:
-- Databases Enhancement: [Artifact Three}(https://github.com/mao-10/CS-499-Artifact-Three)
+- Databases Enhancement: [Artifact Three](https://github.com/mao-10/CS-499-Artifact-Three)
   
