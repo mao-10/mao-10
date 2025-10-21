@@ -17,7 +17,7 @@
 - Milestone Four Narrative: <a href="MilestoneFourNarrative.pdf">Narrative</a>
 
 ### Artifacts
-- Software Design and Engineering Enhancement:
+- Software Design and Engineering Enhancement: [Artifact One](https://github.com/mao-10/CS-499-Artifact-One)
 - Algorithms and Data Structure Enhancement:
 - Databases Enhancement:
   
