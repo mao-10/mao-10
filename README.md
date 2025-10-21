@@ -8,15 +8,15 @@
 
 ## CS 499 Capstone Project
 
-# Code Review (Milestone One):
+### Code Review (Milestone One):
 [YouTube Video](https://youtu.be/a81oGKTimc8)
 
-# Narratives:
+### Narratives:
 - Milestone Two Narrative:
 - Milestone Three Narrative:
 - Milestone Four Narrative:
 
-# Artifacts
+### Artifacts
 - Software Design and Engineering Enhancement:
 - Algorithms and Data Structure Enhancement:
 - Databases Enhancement:
