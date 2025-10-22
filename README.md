@@ -21,8 +21,10 @@ This capstone project showcases my improvement in software design and engineerin
 - Milestone Four Narrative: <a href="MilestoneFourNarrative.pdf">Narrative</a>
 
 ### Artifacts
+My 1st enhancement is showcased using the artifact from CS-320.
+My 2nd and 3rd enhancements are showcased by the same artifact from IT-145.
 - Original Artifact for Enhancement One: [Original Artifact One](https://github.com/mao-10/CS-320-Project)
 - Original Artifact for Enhancement Two and Three:[Original Artifact Two and Three](https://github.com/mao-10/IT-145)
 - Software Design and Engineering Enhancement: [Artifact One](https://github.com/mao-10/CS-499-Artifact-One)
-- Algorithms and Data Structure Enhancement & Databases Enhancement: [Artifact Two & Three](https://github.com/mao-10/CS-499-Artifact-Three)
+- Algorithms and Data Structure Enhancement & Databases Enhancement: [Artifact Two & Three](https://github.com/mao-10/CS-499-Artifact-Two-And-Three)
   
