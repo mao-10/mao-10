@@ -7,6 +7,10 @@
 - 💻 [My Portfolio](https://gregarious-kleicha-73baa2.netlify.app/)
 
 ## CS 499 Capstone Project
+This capstone project showcases my improvement in software design and engineering, algorithms and data structures, and databases. I chose two small projects from early classes and have enhanced them in these three categories. 
+
+## Professional Self-Assessment
+
 
 ### Code Review (Milestone One):
 [YouTube Video](https://youtu.be/a81oGKTimc8)
@@ -17,6 +21,8 @@
 - Milestone Four Narrative: <a href="MilestoneFourNarrative.pdf">Narrative</a>
 
 ### Artifacts
+- Original Artifact for Enhancement One: [Original Artifact One]()
+- Original Artifact for Enhancement Two and Three:[Original Artifact Two and Three]()
 - Software Design and Engineering Enhancement: [Artifact One](https://github.com/mao-10/CS-499-Artifact-One)
 - Algorithms and Data Structure Enhancement:
 - Databases Enhancement: [Artifact Three](https://github.com/mao-10/CS-499-Artifact-Three)
