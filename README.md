@@ -21,7 +21,7 @@ This capstone project showcases my improvement in software design and engineerin
 - Milestone Four Narrative: <a href="MilestoneFourNarrative.pdf">Narrative</a>
 
 ### Artifacts
-- Original Artifact for Enhancement One: [Original Artifact One]()
+- Original Artifact for Enhancement One: [Original Artifact One](https://github.com/mao-10/IT-145)
 - Original Artifact for Enhancement Two and Three:[Original Artifact Two and Three]()
 - Software Design and Engineering Enhancement: [Artifact One](https://github.com/mao-10/CS-499-Artifact-One)
 - Algorithms and Data Structure Enhancement:
