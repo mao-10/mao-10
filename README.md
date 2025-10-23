@@ -17,7 +17,7 @@ This capstone project showcases my improvement in software design and engineerin
 
 ### Narratives:
 - Milestone Two Narrative: <a href="MilestoneTwoNarrative.pdf">Narrative</a>
-- Milestone Three Narrative: <a href="MilestoneThreeNarrative.pdf">Narrative</a>
+- Milestone Three Narrative: <a href="Milestone3Narrative.pdf">Narrative</a>
 - Milestone Four Narrative: <a href="MilestoneFourNarrative.pdf">Narrative</a>
 
 ### Artifacts
