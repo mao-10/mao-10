@@ -7,10 +7,10 @@
 - 💻 [My Portfolio](https://gregarious-kleicha-73baa2.netlify.app/)
 
 ## CS 499 Capstone Project
-This capstone project showcases my improvement in software design and engineering, algorithms and data structures, and databases. I chose two small projects from early classes and have enhanced them in these three categories. 
+This capstone project showcases my improvement in software design and engineering, algorithms and data structures, and databases. I chose two small projects from early classes and have enhanced them in three categories. 
 
 ## Professional Self-Assessment
-
+[Self-Assessment](professionalSelf-Assessment.pdf)
 
 ### Code Review (Milestone One):
 [YouTube Video](https://youtu.be/a81oGKTimc8)
